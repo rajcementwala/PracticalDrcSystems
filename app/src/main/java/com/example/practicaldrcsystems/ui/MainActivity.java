@@ -1,8 +1,10 @@
-package com.example.practicaldrcsystems;
+package com.example.practicaldrcsystems.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.practicaldrcsystems.R;
 
 public class MainActivity extends AppCompatActivity {
 
